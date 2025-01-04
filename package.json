@@ -1,0 +1,22 @@
+{
+  "name": "move-text-animation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  },
+  "description": "move each letter when mouse enter on the text ",
+  "main": "index.js",
+  "keywords": [
+    "animation",
+    "text"
+  ],
+  "author": "Yzey",
+  "license": "ISC"
+}
