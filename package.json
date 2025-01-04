@@ -18,5 +18,9 @@
     "text"
   ],
   "author": "Yzey",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yannletouzey/scale-text-animation.git"
+  }
 }
